@@ -89,11 +89,11 @@
 			<groups />
 		</ControllerSet>
 		<!--XML file (.xml) containing the forces applied to the model as ExternalLoads.-->
-		<external_loads_file>/Users/jiangfangwei/Documents/OpenSim/4.1/Models/Gait2354_Simbody/subject01_walk1_grf.xml</external_loads_file>
+		<external_loads_file>/content/opensim-models/Pipelines/Gait2354_Simbody/subject01_walk1_grf.xml</external_loads_file>
 		<!--Motion (.mot) or storage (.sto) file containing the desired point trajectories.-->
 		<desired_points_file />
 		<!--Motion (.mot) or storage (.sto) file containing the desired kinematic trajectories.-->
-		<desired_kinematics_file>/Users/jiangfangwei/Documents/OpenSim/4.1/Models/Gait2354_Simbody/ResultsRRA/subject01_walk1_RRA_Kinematics_q.sto</desired_kinematics_file>
+		<desired_kinematics_file>/content/opensim-models/Pipelines/Gait2354_Simbody/ResultsRRA/subject01_walk1_RRA_Kinematics_q.sto</desired_kinematics_file>
 		<!--File containing the tracking tasks. Which coordinates are tracked and with what weights are specified here.-->
 		<task_set_file>gait2354_CMC_Tasks.xml</task_set_file>
 		<!--File containing the constraints on the controls.-->
